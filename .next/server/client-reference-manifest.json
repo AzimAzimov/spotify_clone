@@ -1,0 +1,309 @@
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./providers/ModalProvider.tsx": {
+      "*": {
+        "id": "(sc_client)/./providers/ModalProvider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./providers/SupabaseProvider.tsx": {
+      "*": {
+        "id": "(sc_client)/./providers/SupabaseProvider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./providers/ToasterProvider.tsx": {
+      "*": {
+        "id": "(sc_client)/./providers/ToasterProvider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./providers/UserProvider.tsx": {
+      "*": {
+        "id": "(sc_client)/./providers/UserProvider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/player/Player.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/player/Player.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/sidebar/Sidebar.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/sidebar/Sidebar.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/liked.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/liked.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/(site)/components/PageContent.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/(site)/components/PageContent.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/header/Header.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/header/Header.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/list/ListItem.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/list/ListItem.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Figtree\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Figtree\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\providers\\ModalProvider.tsx": {
+      "id": "(app-client)/./providers/ModalProvider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\providers\\SupabaseProvider.tsx": {
+      "id": "(app-client)/./providers/SupabaseProvider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\providers\\ToasterProvider.tsx": {
+      "id": "(app-client)/./providers/ToasterProvider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\providers\\UserProvider.tsx": {
+      "id": "(app-client)/./providers/UserProvider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\components\\player\\Player.tsx": {
+      "id": "(app-client)/./components/player/Player.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\components\\sidebar\\Sidebar.tsx": {
+      "id": "(app-client)/./components/sidebar/Sidebar.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\app\\globals.css": {
+      "id": "(app-client)/./app/globals.css",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\public\\assets\\liked.png": {
+      "id": "(app-client)/./public/assets/liked.png",
+      "name": "*",
+      "chunks": [
+        "app/(site)/page:static/chunks/app/(site)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\app\\(site)\\components\\PageContent.tsx": {
+      "id": "(app-client)/./app/(site)/components/PageContent.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(site)/page:static/chunks/app/(site)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\components\\header\\Header.tsx": {
+      "id": "(app-client)/./components/header/Header.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(site)/page:static/chunks/app/(site)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\components\\list\\ListItem.tsx": {
+      "id": "(app-client)/./components/list/ListItem.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(site)/page:static/chunks/app/(site)/page.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\app\\layout": [
+      "static/css/app/layout.css"
+    ],
+    "C:\\Users\\azimov\\Desktop\\spotify_clone\\app\\(site)\\page": []
+  }
+}

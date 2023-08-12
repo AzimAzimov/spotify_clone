@@ -2,7 +2,7 @@ import React from 'react'
 
 const n = () => {
   return (
-    <div>n</div>
+    <div>ngrgrwgwr dfvsdv</div>
   )
 }
 
